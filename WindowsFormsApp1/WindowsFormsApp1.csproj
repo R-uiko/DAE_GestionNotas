@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7C92002-676D-4AE5-8FAD-4AC51EAD02CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbGestionNotasDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbGestionNotasDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbGestionNotasDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAlumno.Designer.cs">
+      <DependentUpon>FAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAsistencia.Designer.cs">
+      <DependentUpon>FAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDetalleMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDetalleMateria.Designer.cs">
+      <DependentUpon>FDetalleMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDocente.Designer.cs">
+      <DependentUpon>FDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FEvaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FEvaluacion.Designer.cs">
+      <DependentUpon>FEvaluacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FGrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FGrado.Designer.cs">
+      <DependentUpon>FGrado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLogin.Designer.cs">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMateria.Designer.cs">
+      <DependentUpon>FMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPrincipal.Designer.cs">
+      <DependentUpon>FPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FResponsable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FResponsable.Designer.cs">
+      <DependentUpon>FResponsable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSeccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSeccion.Designer.cs">
+      <DependentUpon>FSeccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FTrimestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FTrimestre.Designer.cs">
+      <DependentUpon>FTrimestre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FUsuario.Designer.cs">
+      <DependentUpon>FUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FAlumno.resx">
+      <DependentUpon>FAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAsistencia.resx">
+      <DependentUpon>FAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDetalleMateria.resx">
+      <DependentUpon>FDetalleMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDocente.resx">
+      <DependentUpon>FDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FEvaluacion.resx">
+      <DependentUpon>FEvaluacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FGrado.resx">
+      <DependentUpon>FGrado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLogin.resx">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMateria.resx">
+      <DependentUpon>FMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPrincipal.resx">
+      <DependentUpon>FPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FResponsable.resx">
+      <DependentUpon>FResponsable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSeccion.resx">
+      <DependentUpon>FSeccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FTrimestre.resx">
+      <DependentUpon>FTrimestre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FUsuario.resx">
+      <DependentUpon>FUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="dbGestionNotasDataSet.xsc">
+      <DependentUpon>dbGestionNotasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet.xss">
+      <DependentUpon>dbGestionNotasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet1.xsc">
+      <DependentUpon>dbGestionNotasDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet1.xss">
+      <DependentUpon>dbGestionNotasDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet2.xsc">
+      <DependentUpon>dbGestionNotasDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet2.xss">
+      <DependentUpon>dbGestionNotasDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet3.xsc">
+      <DependentUpon>dbGestionNotasDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet3.xss">
+      <DependentUpon>dbGestionNotasDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet4.xsc">
+      <DependentUpon>dbGestionNotasDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet4.xss">
+      <DependentUpon>dbGestionNotasDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet5.xsc">
+      <DependentUpon>dbGestionNotasDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet5.xss">
+      <DependentUpon>dbGestionNotasDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet6.xsc">
+      <DependentUpon>dbGestionNotasDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet6.xss">
+      <DependentUpon>dbGestionNotasDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet7.xsc">
+      <DependentUpon>dbGestionNotasDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet7.xss">
+      <DependentUpon>dbGestionNotasDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet8.xsc">
+      <DependentUpon>dbGestionNotasDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet8.xss">
+      <DependentUpon>dbGestionNotasDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet9.xsc">
+      <DependentUpon>dbGestionNotasDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="dbGestionNotasDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbGestionNotasDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbGestionNotasDataSet9.xss">
+      <DependentUpon>dbGestionNotasDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibraryModel\ClassLibraryModel.csproj">
+      <Project>{dae10487-4367-43df-a7d1-77362695c5ba}</Project>
+      <Name>ClassLibraryModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANTALLA INICIO4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar low.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>
