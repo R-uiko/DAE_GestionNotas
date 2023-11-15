@@ -1,0 +1,60 @@
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\bin\Debug\ClassLibraryModel.pdb
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CopyComplete
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.dll
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\bin\Debug\ClassLibraryModel.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CopyComplete
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\ClassLibraryModel\obj\Debug\ClassLibraryModel.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\ClassLibraryModel.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CopyComplete
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.pdb
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\ClassLibraryModel.pdb
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CopyComplete
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.dll
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\ClassLibraryModel\obj\Debug\ClassLibraryModel.pdb
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll.config
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\bin\Debug\ClassLibraryModel.dll
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\bin\Debug\ClassLibraryModel.pdb
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\bin\Debug\EntityFramework.dll
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.dll
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\bin\Debug\EntityFramework.xml
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\bin\Debug\EntityFramework.SqlServer.xml
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.AssemblyReference.cache
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CoreCompileInputs.cache
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\obj\Debug\ClassLibraryModel.csproj.CopyComplete
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\obj\Debug\ClassLibraryModel.dll
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\ClassLibraryModel\obj\Debug\ClassLibraryModel.pdb

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a68c7a23adaa483ab62c0ae9bf7cd85b" Name="Diagram1">
+        <EntityTypeShape EntityType="Modelo.Alumno" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Asistencia" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Detalle_Materia" Width="1.5" PointX="9.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Docente" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Evaluacion" Width="1.5" PointX="7.5" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Grado" Width="1.5" PointX="3" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Materia" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Responsable" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Seccion" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Trimestre" Width="1.5" PointX="5.25" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Modelo.Usuario" Width="1.5" PointX="5.25" PointY="12" IsExpanded="true" />
+        <AssociationConnector Association="Modelo.FK_Alumno" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Alumno_Seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Asistencia_Alumno" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Evaluacion_Alumno" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Asistencia_Docente" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Detalle_Materia" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Detalle_Materia_Evaluacion" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Detalle_Materia_Seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Docente_Seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Materia" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Evaluacion_Trimestre" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Evaluacion_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="Modelo.FK_Grado" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
