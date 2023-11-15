@@ -1,0 +1,188 @@
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.pdb
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\PROYECTO FINAL  DAE\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FLogin.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FPrincipal.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAlumno.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDocente.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FMateria.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FTrimestre.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDetalleMateria.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEvaluacion.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FResponsable.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAlumno.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDetalleMateria.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDocente.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEvaluacion.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FLogin.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FMateria.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FPrincipal.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FResponsable.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FTrimestre.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAsistencia.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FGrado.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.pdb
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAlumno.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAsistencia.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDetalleMateria.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDocente.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEvaluacion.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FGrado.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FLogin.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FMateria.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FPrincipal.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FResponsable.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FTrimestre.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\PROYECTO FINAL PARA EDITARLO\SUBIR COMPAS\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.pdb
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAlumno.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAsistencia.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDetalleMateria.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDocente.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEvaluacion.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FGrado.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FLogin.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FMateria.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FPrincipal.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FResponsable.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FTrimestre.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Desktop\GestionDeNotas - copia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAlumno.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAsistencia.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDetalleMateria.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDocente.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEvaluacion.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FGrado.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FLogin.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FMateria.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FPrincipal.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FResponsable.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FSeccion.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FTrimestre.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FUsuario.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll.config
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MINEDUCYT\Desktop\Proyecto Dae\SIN\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.pdb
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\ClassLibraryModel.dll.config
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAlumno.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAsistencia.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDetalleMateria.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FDocente.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FEvaluacion.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FGrado.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FLogin.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FMateria.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FPrincipal.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FResponsable.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FSeccion.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FTrimestre.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FUsuario.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+S:\Download S\avance douglas\proyecto Tati v1\SGestion de Notas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
